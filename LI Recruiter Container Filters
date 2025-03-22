@@ -1,0 +1,10 @@
+! Title: LI Recruiter Container Filters
+!!!!-------LI Recruiter Container Filters------------!!!!
+www.linkedin.com###right-rail-container
+www.linkedin.com##.navigation-list
+www.linkedin.com##.recent-recruiting-activities.component-card > div
+www.linkedin.com##.summary-card
+www.linkedin.com##.expandable-stepper.expandable-list:has-text(Education)
+www.linkedin.com##.skills-card-expandable.expandable-stepper.expandable-list
+www.linkedin.com##.component-card.accomplishments
+www.linkedin.com##.component-card--with-list.expandable-stepper.expandable-list
