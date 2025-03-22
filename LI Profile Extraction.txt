@@ -1,0 +1,31 @@
+! ! ! !!!-----------------LI Profile Extraction-----------	---------!!!!
+
+www.linkedin.com##.global-nav--visible.global-alert-offset-top.global-nav
+www.linkedin.com##.scaffold-layout__aside
+www.linkedin.com##.msg-overlay-list-bubble__tablet-height.ml4.msg-overlay-list-bubble
+www.linkedin.com##.scaffold-layout-toolbar--is-fixed-visible.scaffold-layout-toolbar--is-fixed.scaffold-layout-toolbar
+www.linkedin.com##.global-footer--static.global-footer
+||static.licdn.com/aero-v1/sc/h/55k1z8997gh8dwtihm11aajyq$image
+||static.licdn.com/aero-v1/sc/h/55k1z8997gh8dwtihm11aajyq$image
+www.linkedin.com##.profile-background-image--default.profile-background-image
+www.linkedin.com##.ember-view.evi-image.pv-top-card-profile-picture__image--show.jUFbKawFMOoweAHWYaVmonaLvdLUQEoCU
+www.linkedin.com##.EntityPhoto-circle-9.presence-entity__image.pv-top-card__photo.display-block.pv-top-card-profile-picture__container.EhbmrltiNMdaZMmvqKEUTrvFbRZFUgxClbmPQ
+www.linkedin.com##.pb5.ph5 > .display-flex
+www.linkedin.com##.global-nav__a11y-menu
+www.linkedin.com##div>a:has-text(/notifications/)
+www.linkedin.com##.profile-background-image
+www.linkedin.com##.ml0.pv-top-card__non-self-photo-wrapper
+www.linkedin.com##.abJtEcvlrbGMfCWrAWoJGmRUckJmgNOTItW.artdeco-card > .ph5 > .display-flex
+www.linkedin.com##.uTSXZhRkmqCzKJMzyYHXZYomGWzHLdTpA.artdeco-card > .ph5 > .display-flex
+www.linkedin.com###artdeco-global-alert-container
+www.linkedin.com##.global-nav--visible.global-alert-offset-top.global-nav
+www.linkedin.com##.scaffold-layout-toolbar--is-fixed-visible.scaffold-layout-toolbar--is-fixed.scaffold-layout-toolbar
+www.linkedin.com##.scaffold-layout__aside
+www.linkedin.com##.application-outlet__overlay-container
+www.linkedin.com##.global-footer--static.global-footer
+www.linkedin.com##.profile-background-image
+www.linkedin.com##.pb5.ph5 > .display-flex
+www.linkedin.com##.ml0.pv-top-card__non-self-photo-wrapper
+www.linkedin.com##.abJtEcvlrbGMfCWrAWoJGmRUckJmgNOTItW.artdeco-card > .ph5 > .display-flex
+www.linkedin.com###artdeco-toasts
+www.linkedin.com##._raised_1aegh9._attachmentBottom_iq15dg._container_iq15dg._transitionIn_1ywt5s._wrapper_1ywt5s
