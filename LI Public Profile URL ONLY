@@ -7,5 +7,6 @@ www.linkedin.com##.profile__topcard-wrapper
 www.linkedin.com##.recent-recruiting-activities.component-card > div > .accordion-item
 www.linkedin.com##.summary-card
 www.linkedin.com##.expandable-stepper.expandable-list
+www.linkedin.com##.expandable-stepper.expandable-list:has-text(Experience)
 www.linkedin.com##.component-card.accomplishments
 www.linkedin.com##.ts-global-footer
