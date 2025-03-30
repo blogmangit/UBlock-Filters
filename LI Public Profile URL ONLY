@@ -1,17 +1,17 @@
 ! Title: LI Public Profile URL Only
-www.linkedin.com##.standalone-header__wrapper
-www.linkedin.com##.profile-standalone__header
-www.linkedin.com##.profile-standalone__right-rail-container
-www.linkedin.com##.profile__topcard-wrapper
-www.linkedin.com##.recent-recruiting-activities.component-card > div > .accordion-item
-www.linkedin.com##.summary-card
-www.linkedin.com##.expandable-stepper.expandable-list
-www.linkedin.com##.expandable-stepper.expandable-list:has-text(Experience)
-www.linkedin.com##.component-card.accomplishments
-www.linkedin.com##.ts-global-footer
-www.linkedin.com##.volunteer-experience-card
 www.linkedin.com##.walkme-outline-handled.SkipThisFixedPosition.walkme-custom-offset-center.walkme-custom-position-left.walkme-custom-language-default.walkme-custom-simple-step.walkme-custom-balloon-v3.walkme-custom-balloon-outer-div
 www.linkedin.com##.walkme-outline-handled.walkme-custom-balloon-v3.walkme-custom-balloon-outer-div
 www.linkedin.com##.hp-core-temp.profile-list-item:has-text(Out of network)
 www.linkedin.com##.SkipThisFixedPosition.walkme-custom-balloon-arrow-right.walkme-custom-balloon-arrow
+www.linkedin.com##.profile__right-rail-container
+www.linkedin.com##.recent-recruiting-activities.component-card
+www.linkedin.com##.summary-card
+www.linkedin.com##.skills-card-expandable.expandable-stepper.expandable-list
+www.linkedin.com##.profile__nav-list
+www.linkedin.com##.component-card.accomplishments
+www.linkedin.com##.component-card--with-list.expandable-stepper.expandable-list
+www.linkedin.com##.experience-card
+www.linkedin.com##.expandable-stepper.expandable-list
+www.linkedin.com##.topcard-condensed__requisitions.topcard-requisitions
+www.linkedin.com##.expandable-list-profile-core--not-expandable.expandable-list-profile-core--expanded
 www.linkedin.com##.expandable-list-profile-core--collapsed:has-text(Volunteer Experience)
