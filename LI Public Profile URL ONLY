@@ -14,3 +14,6 @@ www.linkedin.com##.expandable-stepper.expandable-list
 www.linkedin.com##.topcard-condensed__requisitions.topcard-requisitions
 www.linkedin.com##.expandable-list-profile-core--not-expandable.expandable-list-profile-core--expanded
 www.linkedin.com##.expandable-list-profile-core--collapsed:has-text(Volunteer Experience)
+www.linkedin.com##.results-container__spotlights-carousel.selectable-carousel
+www.linkedin.com##.bulk-actions__search-insights-button-container
+www.linkedin.com##.hp-core-temp.profile-list-item:has-text(Out of network)
