@@ -9,3 +9,11 @@ www.linkedin.com##.bulk-actions__search-insights-button-container
 www.linkedin.com##.hp-core-temp.profile-list-item:has-text(Out of network)
 www.linkedin.com##.results-container__spotlights-carousel.selectable-carousel
 www.linkedin.com##._raised_1aegh9._attachmentBottom_iq15dg._container_iq15dg._transitionIn_1ywt5s._wrapper_1ywt5s
+www.linkedin.com##.topcard-condensed__requisitions.topcard-requisitions
+www.linkedin.com##.navigation-list
+www.linkedin.com##.recent-recruiting-activities.component-card > div > .accordion-item
+www.linkedin.com##.summary-card
+www.linkedin.com##.experience-card
+www.linkedin.com##.expandable-stepper.expandable-list
+www.linkedin.com##.component-card.accomplishments
+www.linkedin.com##.expandable-list-profile-core--not-expandable.expandable-list-profile-core--expanded
