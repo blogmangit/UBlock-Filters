@@ -18,3 +18,9 @@ www.linkedin.com##.expandable-stepper.expandable-list
 www.linkedin.com##.component-card.accomplishments
 www.linkedin.com##.expandable-list-profile-core--not-expandable.expandable-list-profile-core--expanded
 www.linkedin.com##.KTtGsyAMlTQFXpLDIsrvLccTRbmnWZDeFvAg.mkYKYmghjZeIYKbrSxTMYRKXhmnrzWeOVI
+www.linkedin.com##.volunteer-experience-card
+www.linkedin.com##.profile__topcard-wrapper > :not(:has(.artdeco-entity-lockup__title))
+www.linkedin.com##.profile__topcard-wrapper :not(.artdeco-entity-lockup__title):not(:has(.artdeco-entity-lockup__title))
+www.linkedin.com##.personal-info__title
+www.linkedin.com##.personal-info__subsection-headline
+www.linkedin.com##.personal-info__icon
