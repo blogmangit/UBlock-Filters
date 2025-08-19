@@ -25,3 +25,7 @@ www.linkedin.com##.profile__topcard-wrapper :not(.artdeco-entity-lockup__title):
 www.linkedin.com##.personal-info__title
 www.linkedin.com##.personal-info__subsection-headline
 www.linkedin.com##.personal-info__icon
+www.linkedin.com##.manage-core__spotlights-carousel.manage-core__main-content-wrapper-card.selectable-carousel
+www.linkedin.com##.skip-to-main
+linkedin.com##:xpath('//*[text()[contains(.,"Skip to Main Content")]]')
+www.linkedin.com##.walkme-custom-balloon-arrow
