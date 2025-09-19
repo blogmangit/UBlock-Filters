@@ -1,18 +1,24 @@
 ! Title: LI Lead Creation
-www.linkedin.com##.profile-standalone__right-rail-container
-www.linkedin.com##.standalone-header__wrapper
-www.linkedin.com##.profile-standalone__header
+www.linkedin.com##.search-container__spotlights-container
+www.linkedin.com##.manage-core__spotlights-carousel.manage-core__main-content-wrapper-card.selectable-carousel
+www.linkedin.com##.profile__right-rail-container
+www.linkedin.com##.topcard-condensed__requisitions.topcard-requisitions
+www.linkedin.com##.navigation-list
 www.linkedin.com##.recent-recruiting-activities.component-card > div > .accordion-item
 www.linkedin.com##.summary-card
-www.linkedin.com##.navigation-list
-www.linkedin.com##.expandable-stepper.expandable-list:has-text(Education)
-www.linkedin.com##.skills-card-expandable.expandable-stepper.expandable-list
+www.linkedin.com##.education-entity
+www.linkedin.com##.profile__topcard-wrapper > :not(:has(.artdeco-entity-lockup__title))
+www.linkedin.com##.profile__topcard-wrapper :not(.artdeco-entity-lockup__title):not(:has(.artdeco-entity-lockup__title))
+www.linkedin.com##.skills-card-expandable
 www.linkedin.com##.component-card.accomplishments
 www.linkedin.com##.component-card--with-list.expandable-stepper.expandable-list
-www.linkedin.com##.walkme-custom-balloon-mid-div
-www.linkedin.com##.walkme-outline-handled.SkipThisFixedPosition.walkme-custom-offset-center.walkme-custom-position-bottom.walkme-custom-language-default.walkme-custom-simple-step.walkme-custom-flow-balloon-13010745.walkme-custom-flow-1559139.wm-design-template-1179839.wm-custom-balloon-ltr.walkme-custom-balloon-v3.walkme-custom-balloon-outer-div
-www.linkedin.com##.SkipThisFixedPosition.wm-design-template-1179839.walkme-custom-flow-balloon-13010745.walkme-custom-balloon-arrow-inner-bottom.walkme-custom-balloon-arrow-inner.walkme-custom-balloon-arrow-bottom.walkme-custom-balloon-arrow
-www.linkedin.com##.SkipThisFixedPosition.wm-design-template-1179839.walkme-custom-flow-balloon-13010745.walkme-custom-balloon-arrow-outer-bottom.walkme-custom-balloon-arrow-outer.walkme-custom-balloon-arrow-bottom.walkme-custom-balloon-arrow
-www.linkedin.com##.walkme-outline-handled.walkme-inspect-ignore.walkme-action-close.walkme-custom-balloon-close-button.walkme-click-and-hover
-www.linkedin.com##.walkme-custom-balloon-arrow-inner.walkme-custom-balloon-arrow-left.walkme-custom-balloon-arrow
-www.linkedin.com##.walkme-custom-balloon-arrow-outer-left.walkme-custom-balloon-arrow-outer.walkme-custom-balloon-arrow-left.walkme-custom-balloon-arrow
+www.linkedin.com##.expandable-stepper.expandable-list > .expandable-list__button--r4-visual-refresh.expandable-list__button--standard.expandable-list__button.ember-view.artdeco-button--tertiary.artdeco-button--2.artdeco-button--icon-right.artdeco-button--muted.artdeco-button
+www.linkedin.com##li.personal-info__subsection:nth-of-type(2)
+www.linkedin.com##.walkme-outline-handled.SkipThisFixedPosition.walkme-custom-offset-center.walkme-custom-position-left.walkme-custom-language-default.walkme-custom-simple-step.walkme-custom-balloon-v3.walkme-custom-balloon-outer-div
+www.linkedin.com##.walkme-outline-handled.walkme-custom-balloon-v3.walkme-custom-balloon-outer-div
+www.linkedin.com##.SkipThisFixedPosition.walkme-custom-balloon-arrow-right.walkme-custom-balloon-arrow
+www.linkedin.com##.volunteer-experience-card
+www.linkedin.com##.skip-to-main
+linkedin.com##:xpath('//*[text()[contains(.,"Skip to Main Content")]]')
+www.linkedin.com##.walkme-custom-balloon-arrow
+www.linkedin.com##.artdeco-list > li:not(:nth-of-type(1))
