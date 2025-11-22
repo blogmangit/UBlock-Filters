@@ -1,5 +1,7 @@
 ! Title: LI Lead Creation V2.0
+www.linkedin.com##.search-container__spotlights-container														 
 www.linkedin.com##.profile-standalone__right-rail-container
+www.linkedin.com##.manage-core__spotlights-carousel.manage-core__main-content-wrapper-card.selectable-carousel
 www.linkedin.com##.profile__right-rail-container
 www.linkedin.com##.profile__nav-list
 www.linkedin.com##.recent-recruiting-activities
@@ -12,3 +14,8 @@ www.linkedin.com##.expandable-stepper.expandable-list:has-text(Interests)
 www.linkedin.com##div.contact-info
 www.linkedin.com##.topcard-condensed__actions--block.topcard-condensed__actions
 www.linkedin.com##.topcard-condensed__bing-container
+www.linkedin.com##.walkme-outline-handled.walkme-custom-balloon-v3.walkme-custom-balloon-outer-div
+www.linkedin.com##.SkipThisFixedPosition.walkme-custom-balloon-arrow-right.walkme-custom-balloon-arrow
+www.linkedin.com##.skip-to-main
+www.linkedin.com##:xpath('//*[text()[contains(.,"Skip to Main Content")]]')
+www.linkedin.com##.walkme-custom-balloon-arrow							   
