@@ -6,7 +6,7 @@ www.linkedin.com##.profile__right-rail-container
 www.linkedin.com##.profile__nav-list
 www.linkedin.com##.recent-recruiting-activities
 www.linkedin.com##.summary-card
-www.linkedin.com##.expandable-stepper.expandable-list:has-text(Education)
+www.linkedin.com##.artdeco-list > li:not(:nth-of-type(1))
 www.linkedin.com##.skills-card-expandable
 www.linkedin.com##.component-card.accomplishments
 www.linkedin.com##.expandable-stepper.expandable-list:has-text(Interests)
