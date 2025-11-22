@@ -8,6 +8,7 @@ www.linkedin.com##.recent-recruiting-activities.component-card > div > .accordio
 www.linkedin.com##.summary-card
 www.linkedin.com##.education-entity
 www.linkedin.com##.profile__topcard-wrapper > :not(:has(.artdeco-entity-lockup__title))
+www.linkedin.com##.profile__topcard-wrapper > :not(:has(.ember-view.artdeco-entity-lockup__subtitle))
 www.linkedin.com##.profile__topcard-wrapper :not(.artdeco-entity-lockup__title):not(:has(.artdeco-entity-lockup__title))
 www.linkedin.com##.skills-card-expandable
 www.linkedin.com##.component-card.accomplishments
