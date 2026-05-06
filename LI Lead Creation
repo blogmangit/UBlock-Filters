@@ -1,6 +1,14 @@
 ! Title: LI Lead Creation
+! May 6, 2026 https://www.linkedin.com
+www.linkedin.com##.walkme-custom-balloon-mid-div
+www.linkedin.com##.walkme-outline-handled
+www.linkedin.com##div.profile-right-rail__recruiting-tools-item:nth-of-type(2)
+www.linkedin.com##div.profile-right-rail__recruiting-tools-item:nth-of-type(3)
+www.linkedin.com##div.profile-right-rail__recruiting-tools-item:nth-of-type(4)
 www.linkedin.com##.component-card.rm-similar-profiles__container
 www.linkedin.com##.topcard-condensed__requisitions.topcard-requisitions
 www.linkedin.com##.profile__nav-list
 www.linkedin.com##.recent-recruiting-activities.component-card > div > .accordion-item
+www.linkedin.com##.component-card.accomplishments
 www.linkedin.com##.following
+www.linkedin.com##.component-card--with-list.expandable-stepper.expandable-list
