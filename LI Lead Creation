@@ -11,3 +11,5 @@ www.linkedin.com##.component-card--with-list.expandable-stepper.expandable-list
 linkedin.com##li.liha-inline-feedback:nth-of-type(n+2)
 www.linkedin.com##.expandable-stepper.expandable-list:has-text(Education)
 www.linkedin.com##.liha-inline-feedback.summary-card
+www.linkedin.com##.skills-card-expandable
+www.linkedin.com##.expandable-list-profile-core--not-expandable.expandable-list-profile-core--expanded:has-text(Volunteer Experience)
