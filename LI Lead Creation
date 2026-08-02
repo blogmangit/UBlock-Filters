@@ -8,3 +8,6 @@ www.linkedin.com##.recent-recruiting-activities.component-card > div > .accordio
 www.linkedin.com##.component-card.accomplishments
 www.linkedin.com##.following
 www.linkedin.com##.component-card--with-list.expandable-stepper.expandable-list
+linkedin.com##li.liha-inline-feedback:nth-of-type(n+2)
+www.linkedin.com##.expandable-stepper.expandable-list:has-text(Education)
+www.linkedin.com##.liha-inline-feedback.summary-card
