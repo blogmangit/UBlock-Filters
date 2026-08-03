@@ -1,15 +1,8 @@
 ! Title: LI Profile Collection
 www.linkedin.com##.walkme-custom-balloon-mid-div
 www.linkedin.com##.walkme-outline-handled
-www.linkedin.com##.component-card.rm-similar-profiles__container
+! 3 Aug 2026 https://www.linkedin.com
+www.linkedin.com##.profile-right-rail__segment-b
 www.linkedin.com##.topcard-condensed__requisitions.topcard-requisitions
-www.linkedin.com##.summary-card
-www.linkedin.com##.experience-card *:not(:has(li.liha-inline-feedback:nth-of-type(1))):not(li.liha-inline-feedback:nth-of-type(1)):not(li.liha-inline-feedback:nth-of-type(1) *)
-www.linkedin.com##.expandable-stepper.expandable-list:has-text(Education)
-www.linkedin.com##.skills-card-expandable
-www.linkedin.com##.expandable-list-profile-core--not-expandable.expandable-list-profile-core--expanded:has-text(Volunteer Experience)
 www.linkedin.com##.profile__nav-list
 www.linkedin.com##.recent-recruiting-activities.component-card > div > .accordion-item
-www.linkedin.com##.component-card.accomplishments
-www.linkedin.com##.following
-www.linkedin.com##.component-card--with-list.expandable-stepper.expandable-list
