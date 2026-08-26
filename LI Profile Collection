@@ -6,3 +6,5 @@ www.linkedin.com##.profile-right-rail__segment-b
 www.linkedin.com##.topcard-condensed__requisitions.topcard-requisitions
 www.linkedin.com##.profile__nav-list
 www.linkedin.com##.recent-recruiting-activities.component-card > div > .accordion-item
+www.linkedin.com##div.profile-right-rail__recruiting-tools-item:nth-of-type(2)
+www.linkedin.com##div.profile-right-rail__recruiting-tools-item:nth-of-type(3)
